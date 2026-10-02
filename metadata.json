@@ -1,0 +1,8 @@
+{
+  "name": "Timestamp Microservice",
+  "description": "freeCodeCamp Timestamp Microservice API project that parses dates and Unix timestamps into JSON format.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
